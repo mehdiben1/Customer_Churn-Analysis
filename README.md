@@ -21,6 +21,8 @@ The company main database structure as seen below consists of one table called *
 # Executive Summary:
 ## Overview of Findings
 
+![Presentation1](https://github.com/user-attachments/assets/eeca7c10-7900-4db1-b50a-a8f770a34978)
+
 
 # Insights Deep Dive
 ## 1.  Churn rate Across Demographic variables:
@@ -43,16 +45,31 @@ The company main database structure as seen below consists of one table called *
 ![Core Services](https://github.com/user-attachments/assets/df5efb2b-39f9-458b-ae0f-7fa6f1d476b7)
 
 ### b. Security Services:
--
--
--
--
-![Security Services](https://github.com/user-attachments/assets/9d838ae8-4e0a-44c6-b811-b159cdab9262)
-
-## 3. 
 These findings suggest that customers who do not subscribe to security-related services (Online Security, Device Protection, Online Backup, or Tech Support) are at a higher risk of churn. 
    - Online Backup : For customers with an online backup service the churn rate is **21.57%**  and for those without this service the churn rate is **39.94%**
    - Device Protection: For Customers with a device Protection subscription the churn rate is **22.54%** in the other hand those who do not subscribe to this service the churn rate is **39.14%**
    - Online Security: For customers with an online security service the churn rate is **14.64%**  and for those without this service the churn rate is **41.78%**
    - Tech Support: Customers without Tech support churn at a rate of **41.65%**, which is **2.7 times** higher than Tech Support users (**15.20%**).
-Tech Support and Online Security stand out as the most critical services, with the largest gap in churn rates. Customers without Tech Support may face unresolved technical issues, which may lead to dissatisfaction and eventual churn.
+     
+Tech Support and Online Security stand out as the most critical services, with the largest gap in churn rates. Customers without these services may face unresolved technical issues, which may lead to dissatisfaction and eventual churn.
+![Security Services](https://github.com/user-attachments/assets/9d838ae8-4e0a-44c6-b811-b159cdab9262)
+
+### c. Entertainment Services:
+- The charts indicate that the churn rate for customers who subscribe to Streaming Movies and Streaming TV is similar to, or slightly lower than, those who do not subscribe to these services:
+    - Streaming TV: **30.11%** for subscribers vs. **33.54%** for non-subscribers.
+    - Streaming Movies: **29.75%** for subscribers vs. **33.73%** for non-subscribers.
+
+These findings suggest that **offering streaming services, whether Movies or TV, does not significantly influence customer churn**. 
+
+![Entertainment Services](https://github.com/user-attachments/assets/4fe56a4c-5168-4416-974e-713b73c41cad)
+
+
+## 3. Contract & Billing:
+- Customers with **shorter subscription times** (1 year or less) have the highest churn rates (**47.68%**),suggesting that customers with longer subscription time (tenure > 1 year) are more loyal.
+- Month-to-month contracts **have significantly higher churn rates** compared to one-year or two-year contracts (**42.71%** for month-to-month vs **11.28%** for one-year and **2.85%** for 2 years)
+- Customers paying via electronic checks exhibit the highest churn rate at **45.29%**. This elevated rate may be attributed to potential dissatisfaction or perceived convenience issues associated with this payment method
+- Customers using paperless billing exhibit a higher churn rate (**33.59%**) compared to those opting for physical bills (**16.38%**).
+![Contract Billing](https://github.com/user-attachments/assets/69b32839-e9a0-45a6-a0b3-2d60eadcccc6)
+
+# Recommendations:
+
