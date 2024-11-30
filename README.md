@@ -33,8 +33,26 @@ The company main database structure as seen below consists of one table called *
 
  ## 2. Service usage:
  ### a. Core Services (Phone & Internet Services):
- -
- - Customer with fibre as internet service tend to churn more than those with Dsl
+ - Similar to Gender, the churn rate for customers with or without Phone Service is nearly identical (**26.75%** vs. **25%**). This suggests that Phone Service does not play a significant role in influencing churn behavior, making it a less critical factor for targeted retention strategies.
+ - Customers with **fiber optic** internet service are significantly more likely to churn compared to those using other options. Specifically:
+
+   - Fiber optic users churn at a rate of **49.89%**, which is **2.6 times** higher than customers with DSL (**19%**).
+   - The churn rate for fiber optic users is even more pronounced when compared to customers with no internet service, who churn at a rate of just **7.43%**, making it approximately **6.7 times** higher.
+ - The heat map below reveals that **customers using both fiber optic and phone services** experience the highest churn rate (**41.89%**). This subgroup may be facing issues related to bundled services, such as high costs. On the other hand, customers with DSL and phone services also exhibit a notable churn rate (**25%**), though it is less critical compared to fiber optic users. 
  
 ![Core Services](https://github.com/user-attachments/assets/df5efb2b-39f9-458b-ae0f-7fa6f1d476b7)
 
+### b. Security Services:
+-
+-
+-
+-
+![Security Services](https://github.com/user-attachments/assets/9d838ae8-4e0a-44c6-b811-b159cdab9262)
+
+## 3. 
+These findings suggest that customers who do not subscribe to security-related services (Online Security, Device Protection, Online Backup, or Tech Support) are at a higher risk of churn. 
+   - Online Backup : For customers with an online backup service the churn rate is **21.57%**  and for those without this service the churn rate is **39.94%**
+   - Device Protection: For Customers with a device Protection subscription the churn rate is **22.54%** in the other hand those who do not subscribe to this service the churn rate is **39.14%**
+   - Online Security: For customers with an online security service the churn rate is **14.64%**  and for those without this service the churn rate is **41.78%**
+   - Tech Support: Customers without Tech support churn at a rate of **41.65%**, which is **2.7 times** higher than Tech Support users (**15.20%**).
+Tech Support and Online Security stand out as the most critical services, with the largest gap in churn rates. Customers without Tech Support may face unresolved technical issues, which may lead to dissatisfaction and eventual churn.
