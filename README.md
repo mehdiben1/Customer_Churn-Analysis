@@ -1,3 +1,5 @@
+# Customer Churn Analysis
+
 # Project Background:
 **Phonenow** is a medium-sized telecommunications company established in 2005. With approximately 15% of the national market share, the company serves over **1 million customers**, generating revenue from three main segments:
 - **Internet Services (40%)**
@@ -89,10 +91,12 @@ These findings indicate that streaming services (Movies or TV) **are not a signi
    - Design targeted retention strategies for senior citizens and customers without dependents or partners by offering personalized discounts, loyalty rewards, or simplified plan options.
    - Enhance customer support for these groups, addressing potential usability or accessibility concerns.
   
-- **Encourage Long-Term Contracts:** Introduce attractive incentives for customers on month-to-month contracts, such as discounts or exclusive benefits for switching to one- or two-year plans using  targeted campaigns that highlight the cost savings and stability associated with longer contract terms.
+- **Encourage Long-Term Contracts:**
+   - Introduce attractive incentives for customers on month-to-month contracts, such as discounts or exclusive benefits for switching to one- or two-year plans using  targeted campaigns that highlight the cost savings and stability associated with longer contract terms.
   
 - **Enhance Digital Billing and Payment Options:**
    - Improve the usability and transparency of paperless billing systems to address potential dissatisfaction.
    - Investigate the pain points associated with electronic check payments and expand payment method options to enhance convenience.
      
-- **Improve Core Service Reliability:** Investigate factors driving churn among fiber optic users, such as cost sensitivity and service reliability, and implement targeted retention efforts like discounts or service enhancements to reduce churn in this high-risk group.
+- **Improve Core Service Reliability:**
+   - Investigate factors driving churn among fiber optic users, such as cost sensitivity and service reliability, and implement targeted retention efforts like discounts or service enhancements to reduce churn in this high-risk group.
