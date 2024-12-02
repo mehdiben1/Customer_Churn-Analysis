@@ -9,8 +9,8 @@
 Recently, Phonenow has faced a significant challenge with customer churn, reaching a concerning rate of **26.54%**. This trend has resulted in  a substantial revenue loss of **$2.6 million**. With increasing competition in the telecommunications sector, retaining customers has become more critical than ever to sustain profitability and market share.
 As a Data Analyst for Phonenow, my role was to identify the key characteristics of customers most likely to churn (at risk of leaving) by analyzing historical customer data. The analysis focused on uncovering **churn rate** patterns across three key dimensions:
 
-- **Demographics:** age, Partner, dependents, Senior Citizen
-- **Service usage:** phone services, Internet services
+- **Demographics:** age, Partner, dependents, Senior Citizen.
+- **Service usage:** phone services, Internet services.
 - **Contract & billing:** payment method, contract type, tenure ...
 
 By uncovering these patterns, the analysis provides actionable insights to help Phonenow design targeted retention strategies, reduce churn rates, and improve customer loyalty.
