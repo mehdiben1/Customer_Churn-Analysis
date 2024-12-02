@@ -84,4 +84,15 @@ These findings indicate that streaming services (Movies or TV) **are not a signi
 ![Contract Billing](https://github.com/user-attachments/assets/69b32839-e9a0-45a6-a0b3-2d60eadcccc6)
 
 # Recommendations:
-
+**Based on the insights and findings above, we recommend that the Management Team consider the following strategies to reduce customer churn and improve retention:**
+- **Targeted Retention Plans for High-Risk Demographics:**
+   - Design targeted retention strategies for senior citizens and customers without dependents or partners by offering personalized discounts, loyalty rewards, or simplified plan options.
+   - Enhance customer support for these groups, addressing potential usability or accessibility concerns.
+  
+- **Encourage Long-Term Contracts:** Introduce attractive incentives for customers on month-to-month contracts, such as discounts or exclusive benefits for switching to one- or two-year plans using  targeted campaigns that highlight the cost savings and stability associated with longer contract terms.
+  
+- **Enhance Digital Billing and Payment Options:**
+   - Improve the usability and transparency of paperless billing systems to address potential dissatisfaction.
+   - Investigate the pain points associated with electronic check payments and expand payment method options to enhance convenience.
+     
+- **Improve Core Service Reliability:** Investigate factors driving churn among fiber optic users, such as cost sensitivity and service reliability, and implement targeted retention efforts like discounts or service enhancements to reduce churn in this high-risk group.
