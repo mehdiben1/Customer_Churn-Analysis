@@ -15,6 +15,7 @@ As a Data Analyst for Phonenow, my role was to identify the key characteristics 
 
 By uncovering these patterns, the analysis provides actionable insights to help Phonenow design targeted retention strategies, reduce churn rates, and improve customer loyalty.
 
+An interactive Tableau dashboard used to report and explore churn rate across key dimensions can be found [here](https://public.tableau.com/shared/8X2T88HN4?:display_count=n&:origin=viz_share_link)
 # Data Structure:
 The company main database structure as seen below consists of one table called **Customer_Chun**, with a total row count of **7033 records** and **21 columns**. Each record represents a single customer along with their associated information, including demographic details, the services they use, their contract and billing details and whether or not they have churned. Below is a brief description of the table contents:
 
